@@ -4,7 +4,7 @@ Polytechnic engineering student passionate about mathematics, physics, and compu
 
 
 <h1 align="center">Hi 👋, I'm Mohamed Dridi</h1>
-<h3 align="center">Deep Learning INDABAX Tunisia 2024</h3>
+<h3 align="center">Deep Learning INDABAX Tunisia 2024 Laureat</h3>
 
 - 🌱 I’m currently learning **DeepLearning , Pytorch ,**
 
